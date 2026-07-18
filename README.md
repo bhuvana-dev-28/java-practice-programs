@@ -1,4 +1,3 @@
-# java-practice-programs
 # Java Practice Programs
 
 This repository contains my Java practice programs created while learning Core Java and improving problem-solving skills.
